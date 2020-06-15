@@ -1,3 +1,3 @@
 module.exports = { 
-    publicPath: '/lightbulb/' 
+    publicPath: '/budget-buddy-web/' 
 }
